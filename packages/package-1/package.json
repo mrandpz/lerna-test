@@ -12,5 +12,6 @@
     "babel": "^6.23.0",
     "package-2": "^0.0.1",
     "react": "^16.8.6"
-  }
+  },
+  "gitHead": "bfb21bc1a33c8e3bbfe4e8a07d3aed9f10b88adb"
 }
